@@ -1,0 +1,43 @@
+Información General:
+None
+
+Estadísticas Descriptivas:
+       artist_popularity
+count                1.0
+mean               120.0
+std                  NaN
+min                120.0
+25%                120.0
+50%                120.0
+75%                120.0
+max                120.0
+
+Valores Nulos por Columna:
+artist_id            0
+artist_name          0
+artist_popularity    0
+albums               0
+dtype: int64
+
+Duplicados en el Dataset:
+Empty DataFrame
+Columns: [artist_id, artist_name, artist_popularity, albums]
+Index: []
+
+Tipos de Datos por Columna:
+artist_id            object
+artist_name          object
+artist_popularity     int64
+albums               object
+dtype: object
+
+Anomalías Numéricas:
+artist_popularity    0
+dtype: int64
+
+Anomalías Categóricas:
+artist_id      0
+artist_name    0
+albums         0
+dtype: int64
+
